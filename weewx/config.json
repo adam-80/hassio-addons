@@ -1,5 +1,5 @@
 {
-  "name": "AJAwx",
+  "name": "ajawx",
   "version": "0.1",
   "slug": "hass_AJAwx",
   "description": "Add-on for connecting weather stations to Home Assistant using WeeWX and MQTT",
